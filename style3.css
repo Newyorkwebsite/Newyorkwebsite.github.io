@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 { 
+	font-family:"American Typewriter";
+	color: #FE9356;
+    font-size: 60px;
+	width: 50%;
+	float:left; }
+body {
+	font-style: normal;
+	font-color: #FE4015;
+	font-size: 30px;
+	font-weight:bold;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;}
+header {
+	width: 100%;
+	height: 200px;}
+nav {
+	background-color: #FFFFFF;
+	height: 120px;
+    font-family:"American Typewriter"}
+div { margin-right:40px
+}
+img {
+	display:block;
+	float:right;}
+#resturant {
+	float: left;
+	display:block;
+	width: 400px }
+#stage {
+	float:right;
+	display:block;
+	width:400px }
+#met {
+	float:right;
+	display:block;
+	width:400px }
+
+content {
+	display: flex;
+	flex-direction:row;
+	justify-content: center;
+}
+.imgtxt {
+	width: 400px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
