@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+h1 {font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: #057666;
+    font-size: 60px;
+	width: 50%;
+	float:left;
+} 
+body {	
+	background-image: url("New York Images/Home Page.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family:"American Typewriter";
+	font-style: normal;
+	font-size: 30px;
+	font-weight:bold;
+	color:#FF4114;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+    }
+
+
+nav {
+	background-color:#FFFFFF;
+	height: 120px;
+
+}
+img {
+	display:block;
+	float:right;
+	
+}
+
+.menu {
+	display: block;
+   }
+    
+
+
